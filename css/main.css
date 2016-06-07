@@ -1,0 +1,20 @@
+header{background-color: black;}
+.fa-ul li a{list-style-type: none;color: white;float: right;text-align: center;margin: 10px;padding: 30px 20px;text-decoration: none;}
+.flower{background-image: url(../image/header-image.jpg);max-width: 920px;margin-left: 115px;height: 400px;}
+.gri{background-color: #3F3D3D;width: 100%;}
+.cuadro{background-color: black;width: 500px;height: 200px; ;margin-left: 230px;}
+.orange{font-size: 70px;color:#F08512;margin-left: 55px;font-family: Courgette;}
+.whi{color: white;display: inline;margin-left:40px;}
+.imag{display: inline;}
+.col-2{margin-left: 100px;margin-right: 25px;}
+.marco{background-color: #292828;width: 300px;}
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+		
